@@ -1,0 +1,6 @@
+[package]
+name = "variant-name-trait"
+version = "0.1.0"
+authors = ["François Mockers <mockersf@gmail.com>"]
+
+[dependencies]
